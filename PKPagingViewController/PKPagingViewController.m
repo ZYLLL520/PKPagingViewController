@@ -1,9 +1,9 @@
 //
 //  PKPageViewController.m
-//  Pook
+//  Pook<https://github.com/ZYLLL520/PKPagingViewController>
 //
 //  Created by 郑玉林 on 16/6/22.
-//  Copyright © 2016年 haidai. All rights reserved.
+//  Copyright © 2016年 Pook. All rights reserved.
 //
 //  This source code is licensed under the MIT-style license found in the
 //  LICENSE file in the root directory of this source tree.
